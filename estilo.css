@@ -1,4 +1,9 @@
 .a {
-    background-color: #999999;
+    background-color: #cfb644fd;
     color: #0000AA;
+}
+
+body{
+    background: #0000AA;
+    padding: 2px 2px;
 }
